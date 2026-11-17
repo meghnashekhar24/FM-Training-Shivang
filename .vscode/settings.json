@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/home/shivang.rustagi/pragma/bin/python",
+  "python.venvPath": "/home/shivang.rustagi",
+  "python.venvFolders": ["pragma"],
+  "jupyter.kernels.excludePythonEnvironments": [
+    "/usr/bin/python3",
+    "/usr/bin/python3.11"
+  ]
+}
